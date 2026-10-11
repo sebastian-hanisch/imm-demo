@@ -1,7 +1,6 @@
 # Mehrere Bewegungsmodelle: Manöver erkennen, ohne Ausreißer zu glauben – Streamlit-Demo
 
-<!-- TODO nach dem Deploy: direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-imm-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-imm-demo.streamlit.app/)**
 
 Achtes Stück der Linie **Zustandsschätzung und Filter** in der „Konzepte“-Reihe für die Website „Sebastian Hanisch – Operations Research und Machine Learning“.
 Es setzt [Robuster Filter](https://github.com/sebastian-hanisch/robust-filter-demo) fort und behebt dessen benennbare Schwäche: **ein echtes Manöver sieht in der ersten Sekunde aus wie ein Ausreißer**,
